@@ -1,0 +1,1 @@
+This is my first RNN Project based on IMDB dataset
